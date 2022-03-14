@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad-Shadab
-- 👀 I’m interested in Frontend Dev, Android and Game development.
+- 👀 I’m interested in Full Stack Dev, Android and Game development.
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Full Stack Dev
 - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/mohd-shadab-5373b4155/
